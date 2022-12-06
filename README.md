@@ -1,4 +1,4 @@
-# telluric-autoencoder
+#  $\texttt{TAU}$: telluric-autoencoder
 This is a pytorch based code for $\texttt{TAU}$ (Telluric AUtoencoder), which can be used to perform quick and high accuracy telluric correction of astrophysical spectral data. See the paper for more details.
 
  $\texttt{TAU}$ is based on a constrained autoencoder structure, which learns a compressed representation of the spectral training data. From this compressed representation intepreteable componenets can be extracted. Some of these components relate to telluric absorption of light in the atmosphere of Earth. The extracted telluric spectrum can be applied to new observations to perform accurate telluric correction at low computational expense.
