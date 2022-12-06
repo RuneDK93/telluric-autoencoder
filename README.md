@@ -9,7 +9,7 @@ The network is trained on solar observations from the HARPS-N spectrograph but c
 The network can be trained for a single aperture / order using the *Master.ipynb* notebook. For training on the entire spectral range of the HARPS-N data use the *training.py* script. 
 
 # Performing telluric correction
-The extracted telluric spectrum can be used to perform telluric correction on new observations. This can be achived using the *telluric_fit* function from  *correction.py*, which is demonstrated in AE_correction.ipynb notebook.
+The extracted telluric spectrum can be used to perform telluric correction on new observations. This can be achived using the *telluric_fit* function from  *correction.py*, which is demonstrated in *AE_correction.ipynb* notebook.
 
 
 
