@@ -9,7 +9,7 @@ Inspect the *AE_correction.ipynb* notebook for a guide on performing telluric co
 ### Training 
 Use *Training.pynb* notebook for understanding the training process of $\texttt{TAU}$ by visualzing network training on a single aperture / order of the data. For training on the entire spectral range of the HARPS-N data use the *training.py* script. The network is trained on solar observations from the HARPS-N spectrograph but can be extended to other spectrographs. 
 
-### Preprocessing data for training 
+### Preprocessing
 *Preproc.ipynb* notebook demonstrates the procedure for preprocessing the raw data prior to training the network.
 
 ### Included Data
