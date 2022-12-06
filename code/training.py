@@ -1,6 +1,6 @@
 # This script is for training on all apertures of the preprocessed data. 
-# If you want to visualise results for a single aperture use Master.ipynb notebook.
-# If something does not work consider using Master.ipynb notebook to troubleshoot.
+# If you want to visualise results for a single aperture use Training.ipynb notebook.
+# If something does not work consider using Training.ipynb notebook to troubleshoot.
 
 # Importing packages and functions
 from scipy import interpolate
