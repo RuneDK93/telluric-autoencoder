@@ -16,7 +16,9 @@ The network can be trained for a single aperture / order using the *Master.ipynb
 ## Preprocessing data for training 
 The procedure for preprocessing data prior to training the network can be seen seen in the *Preproc.ipynb* 
 
-## Getting data
+## Data
 Data from HARPS-N used for training $\texttt{TAU}$ is not included in this repository, but can be downloaded from https://dace.unige.ch/dashboard/
+
+A sample of 100 preprocessed observation is included in preproc folder and can be used to test the network.
 
 
