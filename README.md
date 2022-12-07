@@ -7,7 +7,7 @@ This is a pytorch based code for $\texttt{TAU}$ (Telluric AUtoencoder), which ca
 Inspect the *AE_correction.ipynb* notebook for a guide on performing telluric correction. Correction is performed with the *telluric_fit* function from *correction.py*.
 
 ### Training 
-Use *Training.pynb* notebook for understanding the training process of $\texttt{TAU}$ by visualzing network training on a single aperture / order of the data. For training on the entire spectral range of the HARPS-N data use the *training.py* script. The network is trained on solar observations from the HARPS-N spectrograph but can be extended to other spectrographs. 
+Use *Training.pynb* notebook for understanding the training process of $\texttt{TAU}$ by visualzing network training on a single aperture / order of the data. For training on the entire spectral range of the HARPS-N data use the *training.py* script. The network is trained on solar observations from the HARPS-N spectrograph but can be extended to other spectrographs. Before training remember to unzip the *telluric_sample_seperate.zip* file in the molecfit directory.
 
 ### Preprocessing
 *Preproc.ipynb* notebook demonstrates the procedure for preprocessing the raw data prior to training the network.
