@@ -1,0 +1,9 @@
+If you encounter a bug with TAU please provide the following information when submitting the bug report:
+
+* Short description of the bug
+* Steps to reproduce the bug (step by step procedure for reproducing the bug)
+* Expected result (what did you expect to happen)
+* Actual result (what actually happened)
+* Software version and operating system
+
+If possible please also provide screenshots and application log files as appropriate for the bug in question.
